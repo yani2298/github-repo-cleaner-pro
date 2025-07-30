@@ -9,6 +9,7 @@
 **🚀 Un outil professionnel pour nettoyer intelligemment vos repositories GitHub**
 
 *Suppression sécurisée • Protection automatique • Interface moderne*
+<img width="562" height="398" alt="CleanShot 2025-07-30 at 20 56 27" src="https://github.com/user-attachments/assets/dc15e8b9-4dd0-42de-9cb5-336ae0484bf7" />
 
 </div>
 
