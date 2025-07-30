@@ -1,0 +1,28 @@
+{
+  "username": "yani2298",
+  "protected_repos": [
+    "Anis-Mosbah-Portfolio",
+    "PlayOuran",
+    "GoGreenPro",
+    "MuslimHub",
+    "salat-now"
+  ],
+  "test_patterns": [
+    "test-*",
+    "demo-*",
+    "*-test",
+    "hello-world",
+    "*-demo",
+    "achievements-unlocked",
+    "pull-shark-demo-*",
+    "pair-extraordinaire-demo",
+    "*badge*test*"
+  ],
+  "auto_confirm": false,
+  "log_level": "info",
+  "backup_before_delete": true,
+  "protect_starred_repos": true,
+  "min_stars_protection": 5,
+  "protect_recent_repos": true,
+  "recent_days_threshold": 30
+}
